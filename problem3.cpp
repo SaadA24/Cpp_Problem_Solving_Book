@@ -31,3 +31,10 @@ int main()
     return 0;
 }
 
+/*
+
+Lessongs:
+Can also use cin >> arr[size] to make an array with the right size everytime and then arr[i] in the loops.
+Always break down the problem and solve incrementally.
+
+*/

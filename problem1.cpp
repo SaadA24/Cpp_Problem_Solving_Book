@@ -19,7 +19,6 @@ int main ()
                 userInput = 3 * userInput + 1;
                 std::cout << "step: "  << stepCount << " = " << userInput << std::endl;
             }
-            
         else
             {
                 userInput /= 2;
