@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-// test if program is a square
+// Test if program is a square
 
 int main() {
 

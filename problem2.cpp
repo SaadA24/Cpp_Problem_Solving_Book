@@ -14,8 +14,8 @@ int main()
 
     for(int i : userInput)
     {
-        int sum = i + i;
-        return sum;
+        result += i;
+        std::cout << int(result) << std::endl;
     }
 
     
